@@ -19,12 +19,10 @@ Assistant: What is your age?
 User: 25
 ```
 2. Retrieval-Augmented Generation (RAG): The chatbot retrieves relevant immigration policies from a vector database built from visa policy documents.
-3. Metadata-Based Document Filtering: Documents are filtered using metadata (e.g., Country, Visa type) to improve retrieval accuracy. 
-4. Live Web Search Integration: If the knowledge base lacks sufficient information, the system performs a real-time web search to retrieve the latest immigration updates, ensuring responses remain current.
-5. Concise vs. Detailed Response 
-Concise : Status, Short Explanation, Confidence Score
-Detailed: Status, Explanation, Policy References, Missing Info, Confidence Score(0-100)%
-6. Policy Source Transparency:
+3. Metadata-Based Document Filtering: Documents are filtered using metadata (e.g., Country, Visa type) to improve retrieval accuracy.
+4. Analysis Response 
+Concise/Detailed : Status, Explanation, Confidence Score(0-100)%, Relevance Score(0-100)%
+5. Policy Source Transparency:
 Users can view the specific policy documents used to generate the answer, ensuring transparency and explainability.
 ## Project Architecture
 The flow of data through SwiftVisa:
@@ -81,7 +79,7 @@ project/
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/swiftvisa-ai.git
+git clone https://github.com/Roshini1507/SwiftVisa-AI.git
 cd swiftvisa-ai
 ```
 2. Create virtual environment

@@ -1,0 +1,343 @@
+[
+    {
+        "timestamp": "2026-04-08 15:11:07",
+        "user_profile": {
+            "age": 25,
+            "nationality": "India",
+            "education": "Bachelor's Degree in Computer Science",
+            "employment": "Software Engineer",
+            "income": 75000,
+            "country": "USA",
+            "visa_type": "h1b"
+        },
+        "response": "Eligibility Status: Cannot be determined based on the information provided.\n\nExplanation:\nThe H-1B classification applies to people who wish to perform services in a specialty occupation. However, the provided policy context does not define what constitutes a \"specialty occupation\" or detail the specific educational or experience requirements for such a role, making it impossible to determine if the user's Bachelor's Degree in Computer Science and role as a Software Engineer qualify under this criterion.\n\nThe user's Bachelor's degree does not meet the criteria for the additional 20,000 H-1B petitions exempt from the cap, which require a master\u2019s degree or higher from a U.S. institution of higher education.\n\nFor petitions filed at or after 12:01 a.m. Eastern on Sept. 21, 2025, an additional $100,000 payment is a condition of eligibility. Petitions filed without proof of this payment or evidence of an exception from the Secretary of Homeland Security will be denied. The user profile does not include information regarding the petition filing date, proof of this payment, or any details that would allow for an assessment of eligibility for an exception to this payment.\n\nPolicy References:\n*   \"This nonimmigrant classification applies to people who wish to perform services in a specialty occupation...\"\n*   \"An additional 20,000 petitions filed on behalf of beneficiaries who have earned a master\u2019s degree or higher from a U.S. institution of higher education are exempt from the cap.\"\n*   \"Under the Proclamation, certain H-1B petitions filed at or after 12:01 a.m. Eastern on Sept. 21, 2025, must be accompanied by an additional $100,000 payment as a condition of eligibility.\"\n*   \"Payment must be made before filing a petition with USCIS, as petitioners must submit proof that the payment has been scheduled from pay.gov or evidence of an exception from the $100,000 payment from the Secretary of Homeland Security at the time of filing the H-1B petition. Petitions subject to the $100,000 payment that are filed without a copy of the proof of the payment from pay.gov or evidence of an exception from the Secretary of Homeland Security will be denied.\"\n*   \"Exceptions to the $100,000 payment are granted by the Secretary of Homeland Security in the extraordinarily rare circumstance where the Secretary has determined that a particular alien worker\u2019s presence in the United States as an H-1B worker is in the national interest, that no American worker is available to fill the role, that the alien worker does not pose a threat to the security or welfare of the United States, and that requiring the petitioning employer to make the payment on the alien\u2019s behalf would significantly undermine the interests of the United States.\"\n\nMissing Information:\n*   Confirmation that \"Software Engineer\" with a Bachelor's Degree in Computer Science meets the definition of a \"specialty occupation,\" as the policy context does not define this term or its specific educational requirements for applicants.\n*   Type of petitioning employer (e.g., institution of higher education, non-profit research organization) to determine eligibility for cap exemption.\n*   The exact date the H-1B petition will be filed.\n*   Proof of the additional $100,000 payment, if applicable based on the filing date.\n*   Information relevant to qualifying for an exception to the $100,000 payment (e.g., whether the alien worker's presence is in the national interest, no American worker is available, the alien worker does not pose a threat, or requiring payment would undermine U.S. interests).\n*   Whether the H-1B cap has been met for the relevant fiscal year or if the beneficiary was selected in the H-1B cap registration process.\n        Relevance Score: 95.0%\n        Confidence Score: 59.37%\n        ",
+        "relevance_score": 95.0,
+        "confidence_score": 59.37,
+        "retrieval_distances": [
+            "0.57547176",
+            "0.74136215",
+            "0.8037988",
+            "0.8068489",
+            "0.80777895"
+        ],
+        "sources": [
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "States as an H-1B worker is in the national interest, that no American worker is available to fill the role, that the\nalien worker does not pose a threat to the security or welfare of the United State"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "petition, or application to adjust status.\u00a0 \u00a0\u00a0\u00a0 \u00a0\nYour employer will be liable for the reasonable costs of your return transportation if they terminate your\nemployment before the end of your period of"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "paid aliens while maintaining the opportunity for employers to secure H-1B workers at all wage levels.\u00a0This\nfinal rule is e\ufb00ective Feb. 27, 2026, and will be in place for the FY 2027 H-1B cap registra"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "Home> Working in the United States> Temporary Workers> H-1B Specialty Occupations\nH-1B Specialty Occupations\n\uf05aAlert: USCIS\u00a0announced that the\u00a0initial registration\u00a0period for\u00a0the fiscal year 2027\u00a0H-1B\u00a0"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "H-1B Visa Payment to Remove Restriction.\nWhen to pay the $100,000 payment:\nPayment must be made before filing a petition with USCIS, as petitioners must submit proof that the payment\nhas been schedule"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-04-08 16:27:20",
+        "user_profile": {
+            "age": 25,
+            "nationality": "India",
+            "education": "Bachelor's Degree in Computer Science",
+            "employment": "Software Engineer",
+            "income": 75000,
+            "country": "USA",
+            "visa_type": "h1b"
+        },
+        "response": "Eligibility Status: Uncertain\nExplanation: The policy context indicates that for petitions filed at or after September 21, 2025, an additional $100,000 payment is a condition of eligibility, unless an exception from the Secretary of Homeland Security is granted. Petitions filed without proof of this payment or an exception will be denied. The FY 2027 H-1B cap registration period (March 4-19, 2026) falls after this date, meaning any subsequent petition filing for the user would be subject to this payment. There is no information provided regarding this mandatory payment or an exception. Additionally, eligibility is contingent on successful registration for the H-1B cap, and selection in the cap lottery, for which no information is available. While a Software Engineer typically falls under a \"specialty occupation,\" the provided policy does not explicitly define or confirm this occupation as such.\n\nPolicy References:\n- (usa_h1b.pdf) \"States as an H-1B worker is in the national interest, that no American worker is available to fill the role, that the al...\"\n- (usa_h1b.pdf) \"petition, or application to adjust status.\u00a0 \u00a0\u00a0\u00a0 \u00a0 Your employer will be liable for the reasonable costs of your return t...\"\n- (usa_h1b.pdf) \"paid aliens while maintaining the opportunity for employers to secure H-1B workers at all wage levels.\u00a0This final rule i...\"\n\nMissing Information:\n*   Confirmation that the user's role as a Software Engineer qualifies as a \"specialty occupation\" as per immigration regulations.\n*   Confirmation of registration for the H-1B cap selection process for the fiscal year 2027.\n*   Confirmation of selection in the H-1B cap lottery.\n*   Information regarding the prospective employer's status (e.g., institution of higher education, nonprofit research organization) to determine if the user would be cap-exempt.\n*   Proof that the mandatory $100,000 payment has been made or evidence that an exception has been granted by the Secretary of Homeland Security.\n        Relevance Score: 95.0%\n        Confidence Score: 60%\n        ",
+        "relevance_score": 95.0,
+        "confidence_score": 60,
+        "retrieval_distances": [
+            "0.57547176",
+            "0.74136215",
+            "0.8037988",
+            "0.8068489",
+            "0.80777895"
+        ],
+        "sources": [
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "States as an H-1B worker is in the national interest, that no American worker is available to fill the role, that the\nalien worker does not pose a threat to the security or welfare of the United State"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "petition, or application to adjust status.\u00a0 \u00a0\u00a0\u00a0 \u00a0\nYour employer will be liable for the reasonable costs of your return transportation if they terminate your\nemployment before the end of your period of"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "paid aliens while maintaining the opportunity for employers to secure H-1B workers at all wage levels.\u00a0This\nfinal rule is e\ufb00ective Feb. 27, 2026, and will be in place for the FY 2027 H-1B cap registra"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "Home> Working in the United States> Temporary Workers> H-1B Specialty Occupations\nH-1B Specialty Occupations\n\uf05aAlert: USCIS\u00a0announced that the\u00a0initial registration\u00a0period for\u00a0the fiscal year 2027\u00a0H-1B\u00a0"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "H-1B Visa Payment to Remove Restriction.\nWhen to pay the $100,000 payment:\nPayment must be made before filing a petition with USCIS, as petitioners must submit proof that the payment\nhas been schedule"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-04-09 15:55:31",
+        "user_profile": {
+            "age": "21",
+            "nationality": "India",
+            "education": "Bachelor's",
+            "employment": "Software Engineer",
+            "income": "65000",
+            "country": "Canada",
+            "visa_type": "Work"
+        },
+        "response": "Eligibility Status: Uncertain\nExplanation: The provided policy context is empty, therefore, no authoritative immigration documents or rules are available to evaluate the user's eligibility for a work visa to Canada. All conditions and requirements for a work visa are missing.\nPolicy References:\n\n\nMissing Information: The comprehensive policy context outlining eligibility criteria for a Canadian work visa is entirely missing.\n        \n        Relevance Score: 0%\n        Confidence Score: 0.0%\n        ",
+        "relevance_score": 0,
+        "confidence_score": 0.0,
+        "retrieval_distances": [],
+        "sources": []
+    },
+    {
+        "timestamp": "2026-04-09 16:27:52",
+        "user_profile": {
+            "age": "21",
+            "nationality": "India",
+            "education": "Bachelor's",
+            "employment": "Software Engineer",
+            "income": "65000",
+            "country": "USA",
+            "visa_type": "h1b"
+        },
+        "response": "Eligibility Status: Uncertain\n\nExplanation:\nTo determine eligibility, critical information is missing from the user's profile and the provided policy context regarding the specific role and application timeline.\n1.  **Specialty Occupation:** The H-1B classification requires the applicant to perform services in a specialty occupation. The provided policy does not define what constitutes a \"specialty occupation,\" so it cannot be confirmed if the user's role as a Software Engineer qualifies.\n2.  **H-1B Cap:** The user has a Bachelor's degree, making them subject to the annual numerical cap of 65,000, as they do not meet the criteria for cap exemption (Master's degree or higher from a U.S. institution, or employment at an institution of higher education, nonprofit research organization, or governmental research organization).\n3.  **Registration Period:** The initial registration period for the fiscal year 2027 H-1B cap is specified as March 4 to March 19, 2026. The user's application date is not provided, making it impossible to confirm if they would apply within the open registration window.\n4.  **$100,000 Payment Requirement:** For H-1B petitions filed at or after 12:01 a.m. Eastern on Sept. 21, 2025, an additional $100,000 payment is required as a condition of eligibility, or evidence of an exception granted by the Secretary of Homeland Security. The user's profile does not indicate whether this payment has been made or if an exception has been granted. Without proof of payment or an approved exception, the petition would be denied.\n\nPolicy References:\n- (usa_h1b.pdf) \"States as an H-1B worker is in the national interest, that no American worker is available to fill the role, that the alien worker does not pose a threat to the security or welfare of the United States, and that requiring the petitioning employer to make the payment on the alien's behalf would significantly undermine the interests of the United States....\"\n- (usa_h1b.pdf) \"petition, or application to adjust status....\"\n- (usa_h1b.pdf) \"paid aliens while maintaining the opportunity for employers to secure H-1B workers at all wage levels....\"\n\nMissing Information:\n*   Confirmation that the user's role as a Software Engineer constitutes a specialty occupation.\n*   The specific date the H-1B petition will be filed or registered.\n*   Whether the additional $100,000 payment has been made or if an exception has been granted by the Secretary of Homeland Security (and if the specific conditions for such an exception are met).\n*   Whether the petitioning employer is an institution of higher education, a nonprofit research organization, or a governmental research organization.\n        \n        Relevance Score: 95.0%\n        Confidence Score: 60%\n        ",
+        "relevance_score": 95.0,
+        "confidence_score": 60,
+        "retrieval_distances": [
+            "0.57547176",
+            "0.74136215",
+            "0.8037988",
+            "0.8068489",
+            "0.80777895"
+        ],
+        "sources": [
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "States as an H-1B worker is in the national interest, that no American worker is available to fill the role, that the\nalien worker does not pose a threat to the security or welfare of the United State"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "petition, or application to adjust status.\u00a0 \u00a0\u00a0\u00a0 \u00a0\nYour employer will be liable for the reasonable costs of your return transportation if they terminate your\nemployment before the end of your period of"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "paid aliens while maintaining the opportunity for employers to secure H-1B workers at all wage levels.\u00a0This\nfinal rule is e\ufb00ective Feb. 27, 2026, and will be in place for the FY 2027 H-1B cap registra"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "Home> Working in the United States> Temporary Workers> H-1B Specialty Occupations\nH-1B Specialty Occupations\n\uf05aAlert: USCIS\u00a0announced that the\u00a0initial registration\u00a0period for\u00a0the fiscal year 2027\u00a0H-1B\u00a0"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "H-1B Visa Payment to Remove Restriction.\nWhen to pay the $100,000 payment:\nPayment must be made before filing a petition with USCIS, as petitioners must submit proof that the payment\nhas been schedule"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-04-09 16:39:49",
+        "user_profile": {
+            "age": "21",
+            "nationality": "India",
+            "education": "Bachelor's",
+            "employment": "Engineer",
+            "income": "65000",
+            "country": "USA",
+            "visa_type": "h1b"
+        },
+        "response": "Eligibility Status: Uncertain\nExplanation: While the user's profession as an Engineer likely qualifies as a specialty occupation, key information is missing to determine H-1B visa eligibility. The user has a Bachelor's degree, which means they would be subject to the annual numerical limit (cap) of 65,000 and would not qualify for the additional 20,000 petitions for beneficiaries with a U.S. master's degree or higher. For the FY 2027 H-1B cap, the registration period is specified as March 4-19, 2026, and prospective petitioners must register each beneficiary for the selection process. There is no information provided on whether the user has been registered or selected. Furthermore, if an H-1B petition is filed at or after 12:01 a.m. Eastern on Sept. 21, 2025, an additional $100,000 payment is required as a condition of eligibility, or an exception must be granted by the Secretary of Homeland Security. No information is provided regarding the payment or an exception being sought or granted.\nPolicy References:\n- (usa_h1b.pdf) \"States as an H-1B worker is in the national interest, that no American worker is available to fill the role, that the alien worker does not pose a threat to the security or welfare of the United States, and that requiring the petitioning employer to make the payment on the alien's behalf would significantly undermine the interests of the United States....\"\n- (usa_h1b.pdf) \"petition, or application to adjust status....\"\n- (usa_h1b.pdf) \"paid aliens while maintaining the opportunity for employers to secure H-1B workers at all wage levels....\"\n\nMissing Information:\n*   Confirmation that the proposed role qualifies as a specialty occupation.\n*   Whether the beneficiary has been registered for the H-1B cap selection process for FY 2027 and if they were selected.\n*   The type of petitioning employer (e.g., institution of higher education, non-profit research organization) to determine if a cap exemption applies.\n*   The date the H-1B petition is filed to determine if the $100,000 payment requirement applies.\n*   If the $100,000 payment is required, whether it has been made or if an exception has been granted by the Secretary of Homeland Security.\n        \n        Relevance Score: 95.0%\n        Confidence Score: 60%\n        ",
+        "relevance_score": 95.0,
+        "confidence_score": 60,
+        "retrieval_distances": [
+            "0.57547176",
+            "0.74136215",
+            "0.8037988",
+            "0.8068489",
+            "0.80777895"
+        ],
+        "sources": [
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "States as an H-1B worker is in the national interest, that no American worker is available to fill the role, that the\nalien worker does not pose a threat to the security or welfare of the United State"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "petition, or application to adjust status.\u00a0 \u00a0\u00a0\u00a0 \u00a0\nYour employer will be liable for the reasonable costs of your return transportation if they terminate your\nemployment before the end of your period of"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "paid aliens while maintaining the opportunity for employers to secure H-1B workers at all wage levels.\u00a0This\nfinal rule is e\ufb00ective Feb. 27, 2026, and will be in place for the FY 2027 H-1B cap registra"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "Home> Working in the United States> Temporary Workers> H-1B Specialty Occupations\nH-1B Specialty Occupations\n\uf05aAlert: USCIS\u00a0announced that the\u00a0initial registration\u00a0period for\u00a0the fiscal year 2027\u00a0H-1B\u00a0"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "H-1B Visa Payment to Remove Restriction.\nWhen to pay the $100,000 payment:\nPayment must be made before filing a petition with USCIS, as petitioners must submit proof that the payment\nhas been schedule"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-04-09 16:52:02",
+        "user_profile": {
+            "age": "21",
+            "nationality": "India",
+            "education": "Bachelor's",
+            "employment": "Engineer",
+            "income": "65000",
+            "country": "USA",
+            "visa_type": "h1b"
+        },
+        "response": "Eligibility Status: Uncertain\n\nExplanation: The applicant's education (Bachelor's) and stated occupation (Engineer) align with the general H-1B classification for specialty occupations. However, key information is missing to determine definitive eligibility. It is unknown if the specific engineering role qualifies as a specialty occupation. The applicant's petition would be subject to the annual H-1B numerical limit (cap), as they do not have a U.S. Master's degree or higher, and it is unknown if their petition has been selected under the cap or if their employer is cap-exempt. Crucially, petitions filed on or after Sept. 21, 2025, require an additional $100,000 payment as a condition of eligibility, or evidence of an exception granted by the Secretary of Homeland Security. Without proof of this payment or an exception, the petition \"will be denied.\" No information is provided regarding the payment or an exception. Furthermore, while not disqualifying, a weighted selection process favoring higher-skilled and higher-paid aliens will be in place for the FY 2027 H-1B cap registration season, which may impact selection.\n\nPolicy References:\n- (usa_h1b.pdf) \"States as an H-1B worker is in the national interest, that no American worker is available to fill the role, that the alien worker does not pose a threat to the security or welfare of the United States, and that requiring the petitioning employer to make the payment on the alien's behalf would significantly undermine the interests of the United States....\"\n- (usa_h1b.pdf) \"petition, or application to adjust status....\"\n- (usa_h1b.pdf) \"paid aliens while maintaining the opportunity for employers to secure H-1B workers at all wage levels....\"\n\nMissing Information:\n*   Whether the specific engineering role qualifies as a specialty occupation.\n*   Whether the petition has been selected under the H-1B cap or if the petitioning employer is exempt from the cap (e.g., an institution of higher education).\n*   The exact date the H-1B petition will be or was filed.\n*   Whether the additional $100,000 payment has been made (proof of payment from pay.gov) or if an exception has been granted by the Secretary of Homeland Security.\n*   Details regarding how the applicant's skills and pay compare to other applicants under the weighted selection process (if applicable for FY 2027 cap registration season).\n        \n        Relevance Score: 95.0%\n        Confidence Score: 60%\n        ",
+        "relevance_score": 95.0,
+        "confidence_score": 60,
+        "retrieval_distances": [
+            "0.57547176",
+            "0.74136215",
+            "0.8037988",
+            "0.8068489",
+            "0.80777895"
+        ],
+        "sources": [
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "States as an H-1B worker is in the national interest, that no American worker is available to fill the role, that the\nalien worker does not pose a threat to the security or welfare of the United State"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "petition, or application to adjust status.\u00a0 \u00a0\u00a0\u00a0 \u00a0\nYour employer will be liable for the reasonable costs of your return transportation if they terminate your\nemployment before the end of your period of"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "paid aliens while maintaining the opportunity for employers to secure H-1B workers at all wage levels.\u00a0This\nfinal rule is e\ufb00ective Feb. 27, 2026, and will be in place for the FY 2027 H-1B cap registra"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "Home> Working in the United States> Temporary Workers> H-1B Specialty Occupations\nH-1B Specialty Occupations\n\uf05aAlert: USCIS\u00a0announced that the\u00a0initial registration\u00a0period for\u00a0the fiscal year 2027\u00a0H-1B\u00a0"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "H-1B Visa Payment to Remove Restriction.\nWhen to pay the $100,000 payment:\nPayment must be made before filing a petition with USCIS, as petitioners must submit proof that the payment\nhas been schedule"
+            }
+        ]
+    },
+    {
+        "timestamp": "2026-04-09 17:15:16",
+        "user_profile": {
+            "age": "21",
+            "nationality": "India",
+            "education": "Bachelor's",
+            "employment": "Engineer",
+            "income": "65000",
+            "country": "USA",
+            "visa_type": "h1b"
+        },
+        "response": "Eligibility Status: Not Eligible\nExplanation: The H-1B cap registration for FY 2027 opens in March 2026. According to the Presidential Proclamation issued on Sept. 19, 2025, any H-1B petition filed at or after 12:01 a.m. Eastern on Sept. 21, 2025, must be accompanied by an additional $100,000 payment as a condition of eligibility. The policy explicitly states that petitions subject to this payment and filed without proof of payment or evidence of an exception from the Secretary of Homeland Security will be denied. The user profile does not provide any information regarding this mandatory payment or an exception. Therefore, based on the provided policy, the user is currently not eligible. While the user's profession as an Engineer generally aligns with a specialty occupation, and their Bachelor's degree makes them subject to the general H-1B cap, the absence of information regarding the $100,000 payment is a critical disqualifier.\nPolicy References:\n- (usa_h1b.pdf) \"States as an H-1B worker is in the national interest, that no American worker is available to fill the role, that the alien worker does not pose a threat to the security or welfare of the United States, and that requiring the petitioning employer to make the payment on the alien's behalf would significantly undermine the interests of the United States....\"\n- (usa_h1b.pdf) \"petition, or application to adjust status....\"\n- (usa_h1b.pdf) \"paid aliens while maintaining the opportunity for employers to secure H-1B workers at all wage levels....\"\n\nMissing Information:\n*   Proof of the $100,000 payment as required by the Presidential Proclamation, or evidence of an exception from the Secretary of Homeland Security.\n*   Details regarding the petitioning employer (e.g., whether they are an institution of higher education, non-profit research organization, or government research organization) to determine if the petition is cap-exempt.\n*   Specific job duties and requirements of the Engineer role to fully confirm it meets specialty occupation criteria.\n*   Confirmation of registration for the FY 2027 H-1B cap selection process.\n        \n        Relevance Score: 95.0%\n        Confidence Score: 60%\n        ",
+        "relevance_score": 95.0,
+        "confidence_score": 60,
+        "retrieval_distances": [
+            "0.57547176",
+            "0.74136215",
+            "0.8037988",
+            "0.8068489",
+            "0.80777895"
+        ],
+        "sources": [
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "States as an H-1B worker is in the national interest, that no American worker is available to fill the role, that the\nalien worker does not pose a threat to the security or welfare of the United State"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "petition, or application to adjust status.\u00a0 \u00a0\u00a0\u00a0 \u00a0\nYour employer will be liable for the reasonable costs of your return transportation if they terminate your\nemployment before the end of your period of"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "paid aliens while maintaining the opportunity for employers to secure H-1B workers at all wage levels.\u00a0This\nfinal rule is e\ufb00ective Feb. 27, 2026, and will be in place for the FY 2027 H-1B cap registra"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "Home> Working in the United States> Temporary Workers> H-1B Specialty Occupations\nH-1B Specialty Occupations\n\uf05aAlert: USCIS\u00a0announced that the\u00a0initial registration\u00a0period for\u00a0the fiscal year 2027\u00a0H-1B\u00a0"
+            },
+            {
+                "source_file": "usa_h1b.pdf",
+                "country": "USA",
+                "visa_type": "H1B",
+                "content_preview": "H-1B Visa Payment to Remove Restriction.\nWhen to pay the $100,000 payment:\nPayment must be made before filing a petition with USCIS, as petitioners must submit proof that the payment\nhas been schedule"
+            }
+        ]
+    }
+]

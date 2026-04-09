@@ -3,12 +3,15 @@ SwiftVisa AI is an intelligent visa eligibility assistant that analyzes immigrat
 ## Project Overview
 SwiftVisa is a Streamlit-based chatbot that helps users understand whether they may qualify for a specific visa category.
 ### Core Technologies:
+```
+Streamlit (UI)
 RAG (Retrieval-Augmented Generation)
-Vector Embeddings
+Vector Embeddings(Sentence Transformers)
 FAISS Vector Database
-Live Web Search (Fallback mechanism)
 LLM (Google Gemini)
+LangChain(Orchestration)
 [!IMPORTANT]Instead of hallucinating answers, the chatbot retrieves official immigration policies and uses them to generate grounded responses.
+```
 ## Features
 1. Conversational Chatbot Interface: The assistant collects user information through a chat conversation instead of static forms.
 ```
